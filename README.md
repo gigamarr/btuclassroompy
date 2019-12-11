@@ -8,3 +8,5 @@ BTU-ს ქლასრუმის იმპლემენტაცია CLI-
 
 ![lorem](https://i.imgur.com/z5hHyv8.png)
 ![lorem](https://i.imgur.com/4yQawP7.png)
+
+ფულ რექვესთი ნუ მოგერიდებათ
